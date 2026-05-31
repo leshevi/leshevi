@@ -26,6 +26,7 @@
 *   [Ansible-Kafka](https://github.com/leshevi/Ansible-Kafka-Kraft-SASL-SSL-SCRAM-SHA-512) — Автоматизация деплоя kafka через ansible.
 *   [Docker-Kafka](https://github.com/leshevi/Kafka-Docker-SSL-Three-Node) — Автоматизация деплоя kafka через docker.
 *   [Terraform](https://github.com/leshevi/Terraform-timeweb) — Автоматизация terraform в timeweb.
+*   [ELK Stack](https://github.com/leshevi/elk-kibana-logstash-filebeat) — Автоматизация stack ELK.
 
 ---
 
