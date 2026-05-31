@@ -29,9 +29,9 @@
 ---
 
 ### 📫 Как со мной связаться:
-[<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d2bb7a71-ba82-4be2-9dac-6d8a5bd3bc62" />
-(https://shields.io)](https://t.me/LesheviOlga)
-[<img src="https://shields.io" height="35" />](https://gitlab.com/leshevi)
+[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d2bb7a71-ba82-4be2-9dac-6d8a5bd3bc62" />](https://t.me/LesheviOlga)
+[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/717ede78-049d-41f3-b4dd-6fe025dc5909" />
+](https://gitlab.com/leshevi)
 
 
 ---
