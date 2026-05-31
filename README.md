@@ -32,6 +32,8 @@
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d2bb7a71-ba82-4be2-9dac-6d8a5bd3bc62" />](https://t.me/LesheviOlga)
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/717ede78-049d-41f3-b4dd-6fe025dc5909" />
 ](https://gitlab.com/leshevi)
+[<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9fe86d6f-7538-4309-9dd8-18db99686ff9" />](mailto:leshevi@mail.ru)
+
 
 
 ---
