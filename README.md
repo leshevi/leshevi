@@ -31,7 +31,8 @@
 ### 📫 Как со мной связаться:
 [<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d2bb7a71-ba82-4be2-9dac-6d8a5bd3bc62" />
 (https://shields.io)](https://@LesheviOlga)
-[![Gitlab](https://shields.io)](https://gitlab.com/leshevi)
+[![GitLab](https://shields.io)](https://gitlab.com/leshevi)
+
 
 ---
 *«Никогда не поздно автоматизировать хаос и превратить его в стабильную инфраструктуру».*
